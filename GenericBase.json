@@ -1,0 +1,17 @@
+{
+  "code": [
+    "app.xml",
+    "cos.xml"
+  ],
+  "content": [
+  ],
+  "meta": [
+    "bootDrcTex.tga",
+    "bootLogoTex.tga",
+    "bootMovie.h264",
+    "bootSound.btsnd",
+    "bootTvTex.tga",
+    "iconTex.tga",
+    "meta.xml"
+  ]
+}
