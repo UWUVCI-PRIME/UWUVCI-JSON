@@ -1,12 +1,12 @@
 ﻿{
   "keys": [
     {
-      "type": 0,
+      "type": "commonKey",
       "keyHash": "ABC0A5FAF6181A137A7F8CC9950E451250878E8F",
       "key": ""
     },
     {
-      "type": 1,
+      "type": "ancastKey",
       "keyHash": "",
       "key": ""
     }
