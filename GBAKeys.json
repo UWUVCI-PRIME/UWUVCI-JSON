@@ -1,0 +1,25 @@
+﻿{
+  "keys": [
+    {
+      "titleID": "0005000010157500",
+      "name": "Mario & Luigi: Superstar Saga",
+      "region": 0,
+      "keyHash": "43B2D3B085A784B80877BDD05E8148FA7346F373",
+      "key": ""
+    },
+    {
+      "titleID": "0005000010157400",
+      "name": "Mario & Luigi: Superstar Saga",
+      "region": 1,
+      "keyHash": "65E51704F21C06D09E897D9D7054D87BD42991E2",
+      "key": ""
+    },
+    {
+      "titleID": "0005000010157300",
+      "name": "Mario & Luigi: Superstar Saga",
+      "region": 2,
+      "keyHash": "CFBA04BD8439E5474B96A385392EE7E3478E2938",
+      "key": ""
+    },
+  ]
+}
