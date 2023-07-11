@@ -1,0 +1,14 @@
+{
+    "code": [
+     "frisbiiU.rpx",
+      "fw.img",
+      "fw.tmd",
+      "htk.bin",
+      "nn_hai_user.rpl"
+    ],
+    "content": [
+      "assets/shaders/cafe/banner.gsh",
+      "assets/shaders/cafe/fade.gsh"
+    ],
+    "meta": []
+  }
